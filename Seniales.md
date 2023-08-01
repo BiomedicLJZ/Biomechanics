@@ -1,0 +1,13 @@
+# Bioseñales
+
+Una bioseñal es la representación de un fenomeno biologico en el tiempo. Las bioseñales son medidas de magnitudes biologicas, como la presión arterial, la temperatura corporal, la actividad muscular, la actividad cerebral, etc. Muchas de estas son de caracter electrico, por lo que se las conoce como bioseñales electricas. Las bioseñales electricas son medidas en unidades de voltaje, y se pueden representar graficamente como una funcion del tiempo. Todas las señales cuentan con una serie de propiedades que las caracterizan. Estas propiedades son:
+* Amplitud: Es la magnitud de la señal. Representa la diferencia entre el valor máximo y el valor mínimo de la señal.
+* Frecuencia: Es el numero de ciclos por unidad de tiempo. Representa la cantidad de veces que la señal se repite en un segundo.
+
+Estos dos parametros son los mas importantes para caracterizar una señal. Sin embargo, existen otros parametros que tambien son importantes, como la duracion de la señal, la forma de la señal, etc.
+
+Las señales pueden ser de caracter continuo o discreto, esto significa que pueden ser medidas en un intervalo de tiempo continuo o en intervalos discretos de tiempo. Las señales continuas son aquellas que se pueden medir en cualquier momento del tiempo, mientras que las señales discretas son aquellas que se pueden medir en intervalos discretos de tiempo. Las señales continuas son las mas comunes en la medicina, ya que se pueden medir en cualquier momento del tiempo. Las señales discretas son mas comunes en la informatica, ya que se pueden medir en intervalos discretos de tiempo. Esto quiere decir basicamente que las señales continuas contienen una cantidad infinita de datos, mientras que las señales discretas contienen una cantidad limitada de datos, este limite viene dado por la capacidad de nuestros equipos electronicos para muestrear las señales en una frecuencia determinada en un tiempo determinado(esto se conoce como la frecuencia de muestreo). Un ejemplo de señal continua es la señal de ECG o electrocardiograma, mientras que un ejemplo de señal discreta es la toma de presion arterial de forma no invasiva.
+
+
+
+El procesamiento de señales es una parte integral de su práctica como ingeniero biomédico. En esta sección, aprenderá sobre las señales y cómo se pueden utilizar para analizar el movimiento. Las señales mas importantes para el analisis del movimiento son las señales de EMG o electromiografía. Las señales de EMG son señales eléctricas que se producen cuando las neuronas de la corteza motora envian señales para la contracción de los músculos en cuestión.
